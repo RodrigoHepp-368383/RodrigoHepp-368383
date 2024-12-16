@@ -5,7 +5,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Full Stack apaixonado po
 
 <div align="center">
 
-### **1. Status Geral**
 <img src="https://github-readme-stats.vercel.app/api?username=RodrigoHepp&show_icons=true&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHepp&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 
