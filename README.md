@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Full Stack apaixonado po
 ## 📈 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RodrigoHepp&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RodrigoHepp&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoHepp&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHepp-368383&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </div>
 ---
