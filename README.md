@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Full Stack apaixonado po
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RodrigoHepp&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHepp&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=RodrigoHepp-368383&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHepp-368383&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 
 </div>
 
@@ -28,13 +28,13 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Full Stack apaixonado po
 
 ## 🚀 Projetos em Destaque
 
-### [Sistema de Cadastro Educacional (sisecad)](https://github.com/RodrigoHepp/sisecad)
+### [Sistema de Cadastro Educacional (sisecad)](https://github.com/RodrigoHepp-368383/sisecad)
 Sistema de cadastro para instituições educacionais, desenvolvido com **Spring Boot** e **Java**. Este projeto explora o uso de ferramentas modernas como Flyway para gerenciamento de migrações de banco de dados e segue boas práticas de desenvolvimento.
 
-### [Praticando HTML e CSS](https://github.com/RodrigoHepp/praticando-HTML-e-CSS)
+### [Praticando HTML e CSS](https://github.com/RodrigoHepp-368383/praticando-HTML-e-CSS)
 Repositório voltado para experimentos com **HTML** e **CSS**, aplicando conceitos de design responsivo e boas práticas de front-end.
 
-### [Flywayecad](https://github.com/RodrigoHepp/flywayecad)
+### [Flywayecad](https://github.com/RodrigoHepp-368383/flywayecad)
 Projeto para gerenciar migrações de banco de dados usando **Flyway**, demonstrando habilidades no gerenciamento de esquemas e estruturação de dados.
 
 ---
